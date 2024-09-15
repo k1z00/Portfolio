@@ -1,6 +1,6 @@
 
+import '../scss/style.css';
 
- 
 
 
 const hamburger = document.querySelector(".hamburger");
