@@ -1,7 +1,5 @@
 @charset "UTF-8";
 @import 'normalize.css';
-
-
 .navbar {
   display: flex;
   background-color: #EAE7DC;
@@ -254,7 +252,7 @@ input.search-field::placeholder {
 }
 
 .tittle_project {
-  margin-bottom: 90px;
+  margin-bottom: 20px;
 }
 
 .items_card_project {
@@ -682,9 +680,6 @@ textarea {
   }
 }
 @media screen and (max-width: 700px) {
-  .form {
-    padding-left: 60px;
-  }
   .form h1 {
     margin-bottom: 35px;
     width: 90%;
@@ -693,7 +688,7 @@ textarea {
   }
   .form h2 {
     font-size: 15px;
-    font-weight: 300;
+    font-weight: 300px;
   }
 }
 @media screen and (max-width: 450px) {

@@ -1,6 +1,4 @@
 
-import '../scss/style.css';
-
 
 
 const hamburger = document.querySelector(".hamburger");
@@ -10,9 +8,6 @@ hamburger.addEventListener("click", () => {
   navItems.classList.toggle("active");
   hamburger.classList.toggle("active");
 });
-
-/*Бургер*/
-
 
 
 const buttonInfo = document.querySelector("#button-info");
